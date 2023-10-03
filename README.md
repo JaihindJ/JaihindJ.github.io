@@ -1,2 +1,1 @@
-# JaihindJ.github.io
-test website
+# Hi, First attempt at designing my website
